@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\Android\\ASworkspace\\PdfReader2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\Android\\ASworkspace\\PdfReader2\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Android\\ASworkspace\\PdfReader2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\load.xml",
+        "source": "D:\\Android\\ASworkspace\\PdfReader2\\app\\src\\main\\res\\layout\\load.xml"
+    }
+]
